@@ -249,6 +249,10 @@ footer {
   header {
     height: 50px;
   }
+  .logo {
+    float: none;
+    height: 50px;
+  }
   .container {
     width: 90%;
   }
@@ -260,5 +264,27 @@ footer {
     border: 1px solid #fafafa;
     margin-top: 5px;
     margin-bottom: 5px;
+  }
+  .list-bar {
+    display: block;
+    width: 25px;
+    height: 2px;
+    margin: 5px auto;
+    background-color: #fafafa;
+  }
+  .list-bar:first-child {
+    margin-top: 10px;
+  }
+  .nav {
+    float: none;
+  }
+  .nav-list {
+    display: none;
+    float: none;
+    width: 100%;
+    line-height: 50px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.9);
   }
 }
