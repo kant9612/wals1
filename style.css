@@ -349,4 +349,7 @@ footer {
     width: 100%;
     text-align: center;
   }
+  .right-contact-contents .fa {
+    margin-right: 8px;
+  }
 }
