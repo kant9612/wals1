@@ -319,4 +319,34 @@ footer {
   .strength:last-child {
     margin-right: 0;
   }
+  #profile {
+    padding: 0 5%;
+  }
+  .profile-group {
+    text-align: center;
+  }
+  .left-contents {
+    float: none;
+    width: 100%;
+  }
+  .right-contents {
+    float: none;
+    width: 100%;
+  }
+  .discription-title {
+    margin-top: 20px;
+  }
+  .discription-title:first-child {
+    margin-top: 20px;
+  }
+  .discription-text {
+    margin-top: 5px;
+  }
+  #contact {
+    padding: 0 5px;
+  }
+  .contact-group {
+    width: 100%;
+    text-align: center;
+  }
 }
