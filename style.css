@@ -287,4 +287,36 @@ footer {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.9);
   }
+  #mv {
+    background-image: url(img2/code.png);
+  }
+  .mv-title {
+    font-size: 40px;
+  }
+  .mv-text {
+    font-size: 18px;
+  }
+  .production-group {
+    width: 300px;
+  }
+  .sp-none {
+    display: none;
+  }
+  #feature {
+    padding-left: 0 5%;
+  }
+  .strength-group {
+    width: 320px;
+    display: block;
+  }
+  .strength {
+    float: none;
+    margin-top: 10px;
+  }
+  .strength:first-child {
+    margin-top: 0;
+  }
+  .strength:last-child {
+    margin-right: 0;
+  }
 }
